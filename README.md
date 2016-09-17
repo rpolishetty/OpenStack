@@ -1,0 +1,2 @@
+# OpenStack
+This project addresses our need to learn about the Ceilometer, Keystone, Magnum, Neutron, Nova services in OpenStack in order to make code contributions and to understanding of how these components operates and communicates with the other services within OpenStack on a conceptual level. Also, investigated how these components have been implemented in code and how to modify the functionality of them to suit our needs.
